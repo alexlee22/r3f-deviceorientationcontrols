@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/r3f-deviceorientationcontrols/static/css/main.2536b54a.chunk.css",
+    "main.js": "/r3f-deviceorientationcontrols/static/js/main.b898f6f3.chunk.js",
+    "main.js.map": "/r3f-deviceorientationcontrols/static/js/main.b898f6f3.chunk.js.map",
+    "runtime-main.js": "/r3f-deviceorientationcontrols/static/js/runtime-main.173540ed.js",
+    "runtime-main.js.map": "/r3f-deviceorientationcontrols/static/js/runtime-main.173540ed.js.map",
+    "static/js/2.07655869.chunk.js": "/r3f-deviceorientationcontrols/static/js/2.07655869.chunk.js",
+    "static/js/2.07655869.chunk.js.map": "/r3f-deviceorientationcontrols/static/js/2.07655869.chunk.js.map",
+    "index.html": "/r3f-deviceorientationcontrols/index.html",
+    "precache-manifest.a7a10e4bc67f4d5de4a8c35cecf1cad0.js": "/r3f-deviceorientationcontrols/precache-manifest.a7a10e4bc67f4d5de4a8c35cecf1cad0.js",
+    "service-worker.js": "/r3f-deviceorientationcontrols/service-worker.js",
+    "static/css/main.2536b54a.chunk.css.map": "/r3f-deviceorientationcontrols/static/css/main.2536b54a.chunk.css.map",
+    "static/js/2.07655869.chunk.js.LICENSE.txt": "/r3f-deviceorientationcontrols/static/js/2.07655869.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.173540ed.js",
+    "static/js/2.07655869.chunk.js",
+    "static/css/main.2536b54a.chunk.css",
+    "static/js/main.b898f6f3.chunk.js"
+  ]
+}
